@@ -72,7 +72,7 @@ color: var(--primaryColor);
 
 /* Hero Section */
 #about-hero {
-  background-image: url(/img/travel-bg.jpg);
+  background-image: url(../img/travel-bg.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
